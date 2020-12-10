@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="wog-tomer9000",
-    version="2.3",
+    version="2.5",
     author="Tomer_Tzur",
     author_email="tomer9000@gmail.com",
     description="Package for DevOps course",
@@ -25,5 +25,5 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.6',
+    python_requires='>=3.4',
 )

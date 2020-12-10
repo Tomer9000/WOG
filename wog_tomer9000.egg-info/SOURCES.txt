@@ -9,6 +9,7 @@ wog/MainGame.py
 wog/MainScores.py
 wog/MemoryGame.py
 wog/Score.py
+wog/Scores.txt
 wog/Utils.py
 wog/__init__.py
 wog/__main__.py
